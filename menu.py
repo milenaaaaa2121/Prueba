@@ -1,4 +1,4 @@
-#como seguir:hacer que los botones reciban bien los datos y funque el get rect,entender si se necesita un rect del texto,deberia poder pasardatos sin ponerlo en variable
+#AGREGANDO COSAS PRUEBA DDS como seguir:hacer que los botones reciban bien los datos y funque el get rect,entender si se necesita un rect del texto,deberia poder pasardatos sin ponerlo en variable
 #el cuadrado de texto y el texto necesitan rect para poder ubicarlo
 #las x e y cambian segun si pones center u otra cosa,hay q ir probando
 import pygame
